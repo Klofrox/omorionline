@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 
 const admin = require('firebase-admin');
-const serviceAccount = require('../klofrox.json');
+const serviceAccount = require('klofrox.json');
 
 
 
